@@ -2,19 +2,22 @@
 2023/04/21일 강사 배형근
 ______________________________________________________________________
 
+## Purpose
+- 위성영상 데이터 종류와 메타데이터에 대해 이해한다.
+- 위성영상 취득 방법을 알고 있고 수집할 수 있다.
+- 위성영상 데이터 종류 별로 전시 방법을 알고 있다.
+
+
 ## Requirements
 
-#### Google Colab
-https://colab.research.google.com/
-
-#### Apihub authKey
-https://apihub.kma.go.kr 회원가입 후 발급
+- [Google Colab](https://colab.research.google.com/)
+- [Apihub](https://apihub.kma.go.kr) (회원가입 후 API Key 발급)
 
 ## How to use
 
 위성활용강의자료.pptx 와 KIRD_실습.ipynb 활용
 
-## 출처
+## Source
 
 이 강의자료는 다음의 자료를 참고하여 작성되었습니다.
 
