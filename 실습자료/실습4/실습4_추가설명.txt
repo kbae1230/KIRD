@@ -1,0 +1,2 @@
+1. https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=73 접속
+2. 해당 경로에서 데이터 다운로드
